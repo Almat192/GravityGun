@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\GravGun2\\",
+  "WorkspaceRootPath": "C:\\Users\\Almat\\Downloads\\GravGun2\\GravGun2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85A63598-2457-E717-F6FB-BA8CFD659568}|Assembly-CSharp.csproj|C:\\Users\\Admin\\GravGun2\\assets\\scripts\\argravitygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85A63598-2457-E717-F6FB-BA8CFD659568}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\argravitygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Runtime\\ARFoundation\\SubsystemLifecycleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Runtime\\ARFoundation\\SubsystemLifecycleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationStandardLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationStandardLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationURPLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationURPLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Almat\\Downloads\\GravGun2\\GravGun2\\Assets\\Scripts\\ARGravityGun.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ARGravityGun.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubsystemLifecycleManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Runtime\\ARFoundation\\SubsystemLifecycleManager.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Runtime\\ARFoundation\\SubsystemLifecycleManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Runtime\\ARFoundation\\SubsystemLifecycleManager.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Runtime\\ARFoundation\\SubsystemLifecycleManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAD5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:24:10.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimulationStandardLit.shader",
-              "DocumentMoniker": "C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationStandardLit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationStandardLit.shader",
-              "ToolTip": "C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationStandardLit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationStandardLit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-12-10T12:34:55.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimulationURPLit.shader",
-              "DocumentMoniker": "C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationURPLit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationURPLit.shader",
-              "ToolTip": "C:\\Users\\Admin\\GravGun2\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationURPLit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a\\Assets\\Shaders\\SimulationURPLit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-12-10T12:34:15.378Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ARGravityGun.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\GravGun2\\Assets\\Scripts\\ARGravityGun.cs",
+              "DocumentMoniker": "C:\\Users\\Almat\\Downloads\\GravGun2\\GravGun2\\Assets\\Scripts\\ARGravityGun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ARGravityGun.cs",
-              "ToolTip": "C:\\Users\\Admin\\GravGun2\\Assets\\Scripts\\ARGravityGun.cs",
+              "ToolTip": "C:\\Users\\Almat\\Downloads\\GravGun2\\GravGun2\\Assets\\Scripts\\ARGravityGun.cs",
               "RelativeToolTip": "Assets\\Scripts\\ARGravityGun.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAADgv4UAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwLEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:26:37.866Z",
+              "WhenOpened": "2025-12-11T08:17:06.059Z",
               "EditorCaption": ""
             }
           ]
